@@ -11,3 +11,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 The balanced accuracy score is 65%
 
 
+
+# Work in progress
+
+
